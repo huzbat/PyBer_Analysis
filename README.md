@@ -4,8 +4,7 @@
 
 Compare ride-sharing fares amongst Urban, Suburban, and Rural cities utilizing data visualizations for PyBer to promote access to ride-sharing services and determine affordability.
 
-####Source
-Data obtained from CSV file from PyBer (an competitor of Uber haha). 
+### Source Data obtained from CSV file from PyBer (an competitor of Uber haha). 
 Utilized Python's Pandas to produce a summary dataframe and chart.
 
 
@@ -56,6 +55,8 @@ In order to reduce the disparity between Urban, Suburban and Rural cities, we re
 
 1. Collect extra data points that span the whole year; for more accurate yearly trends
 2. Rural cities are underserved, incentivize becoming a driver in rural (and suburban) areas; potentially may motivate drivers to midrate from urban areas  --> Create goal to raise minimum drivers by 10%
+
+By: Huzaifa Hussain | https://www.linkedin.com/in/huzaifa-s-hussain/
 
 
 
