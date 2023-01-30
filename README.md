@@ -74,7 +74,9 @@ Rural drivers clearly outperform Suburban and Urban drivers in terms of `Average
 2. Customers in Urban areas pay less per ride, 'supply' of rides is higher than 'demand'
 3. Rural areas have lower 'supply' of drivers hence customers face more expensive fares compared to Urban or Suburban areas
 
-## Summary: Business recommendations 
+## Summary
+
+### Business recommendations 
 
 In order to reduce the disparity between Urban, Suburban and Rural cities, we recomend the following:
 
