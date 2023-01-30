@@ -7,22 +7,20 @@
     <li>
       <a href="#Purpose">Purpose</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Source Data">Source Data</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Results">Results</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Ratio of Rides to Drivers">Ratio of Rides to Drivers</a></li>
+        <li><a href="#Average Fare per Ride">Average Fare per Ride</a></li>
+        <li><a href="#Average Fare per Driver">Average Fare per Driver</a></li>
+        <li><a href="#Total Fares">Total Fares</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Conclusion">Conclusion</a></li>
+    <li><a href="#Summary: Business recommendations">Summary: Business recommendations</a></li>
   </ol>
 </details>
 
@@ -30,7 +28,7 @@
 
 Compare ride-sharing fares amongst Urban, Suburban, and Rural cities utilizing data visualizations for PyBer to promote access to ride-sharing services and determine affordability.
 
-### Source Data obtained from CSV file from PyBer (an competitor of Uber haha). 
+### Source Data 
 Utilized Python's Pandas to produce a summary dataframe and chart.
 
 
@@ -69,7 +67,7 @@ Rural drivers clearly outperform Suburban and Urban drivers in terms of `Average
   - 4.47 times lower than suburban cities
 
 
-### **Conclusions (explained via economics)
+## Conclusion
 
 1. Urban area generate higher revenue for PyBer, very high 'supply & demand' of drivers
 2. Customers in Urban areas pay less per ride, 'supply' of rides is higher than 'demand'
