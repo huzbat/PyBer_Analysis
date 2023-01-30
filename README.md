@@ -13,10 +13,10 @@
     <li>
       <a href="#Results">Results</a>
       <ul>
-        <li><a href="#Ratio of Rides to Drivers">Ratio of Rides to Drivers</a></li>
-        <li><a href="#Average Fare per Ride">Average Fare per Ride</a></li>
-        <li><a href="#Average Fare per Driver">Average Fare per Driver</a></li>
-        <li><a href="#Total Fares">Total Fares</a></li>
+        <li><a href="#Ratio-of-Rides-to-Drivers">Ratio of Rides to Drivers</a></li>
+        <li><a href="#Average-Fare-per-Ride">Average Fare per Ride</a></li>
+        <li><a href="#Average-Fare-per-Driver">Average Fare per Driver</a></li>
+        <li><a href="#Total-Fares">Total Fares</a></li>
       </ul>
     </li>
     <li><a href="#Conclusion">Conclusion</a></li>
