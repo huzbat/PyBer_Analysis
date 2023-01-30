@@ -33,7 +33,7 @@ Compare ride-sharing fares amongst Urban, Suburban, and Rural cities utilizing d
 Utilized Python's Pandas to produce a summary dataframe and chart.
 
 
-## Results: 
+## Results
 
 
 ![PyBer Summary](Resources/results_summary_table.png)
