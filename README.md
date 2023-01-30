@@ -20,7 +20,7 @@
       </ul>
     </li>
     <li><a href="#Conclusion">Conclusion</a></li>
-    <li><a href="#Summary: Business recommendations">Summary: Business recommendations</a></li>
+    <li><a href="#Summary">Summary</a></li>
     <li><a href="#Contact">Contact</a></li>
   </ol>
 </details>
