@@ -85,10 +85,10 @@ In order to reduce the disparity between Urban, Suburban and Rural cities, we re
 2. Rural cities are underserved, incentivize becoming a driver in rural (and suburban) areas; potentially may motivate drivers to midrate from urban areas  --> Create goal to raise minimum drivers by 10%
 
 ## Resources
-PyBer_ride_data.csv
-PyBer_ride_data.csv.ipynb
-city_data.csv
-ride_data.csv
+1. PyBer_ride_data.csv
+2. PyBer_ride_data.csv.ipynb
+3. city_data.csv
+4. ride_data.csv
 
 ## Contact
 Huzaifa Hussain | https://www.linkedin.com/in/huzaifa-s-hussain/
