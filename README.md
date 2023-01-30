@@ -29,7 +29,7 @@
 
 Compare ride-sharing fares amongst Urban, Suburban, and Rural cities utilizing data visualizations for PyBer to promote access to ride-sharing services and determine affordability.
 
-### Source-Data 
+### Source Data 
 Utilized Python's Pandas to produce a summary dataframe and chart.
 
 
