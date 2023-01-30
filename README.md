@@ -21,6 +21,7 @@
     </li>
     <li><a href="#Conclusion">Conclusion</a></li>
     <li><a href="#Summary">Summary</a></li>
+    <li><a href="#Resources">Resources</a></li>
     <li><a href="#Contact">Contact</a></li>
   </ol>
 </details>
@@ -82,6 +83,12 @@ In order to reduce the disparity between Urban, Suburban and Rural cities, we re
 
 1. Collect extra data points that span the whole year; for more accurate yearly trends
 2. Rural cities are underserved, incentivize becoming a driver in rural (and suburban) areas; potentially may motivate drivers to midrate from urban areas  --> Create goal to raise minimum drivers by 10%
+
+## Resources
+PyBer_ride_data.csv
+PyBer_ride_data.csv.ipynb
+city_data.csv
+ride_data.csv
 
 ## Contact
 Huzaifa Hussain | https://www.linkedin.com/in/huzaifa-s-hussain/
